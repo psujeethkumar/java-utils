@@ -1,6 +1,3 @@
-2023-05-30 14:08:31,064 [main] DEBUG: It is a debug logger.
-2023-05-30 14:08:31,065 [main] ERROR: It is an error logger.
-2023-05-30 14:08:31,065 [main] FATAL: It is a fatal logger.
-2023-05-30 14:08:31,065 [main] INFO : It is a info logger.
-2023-05-30 14:08:31,065 [main] TRACE: It is a trace logger.
-2023-05-30 14:08:31,066 [main] WARN : It is a warn logger.
+2023-05-30 16:26:27,906 [main] DEBUG: Debug log message
+2023-05-30 16:26:27,908 [main] INFO : Info log message
+2023-05-30 16:26:27,908 [main] ERROR: Error log message
