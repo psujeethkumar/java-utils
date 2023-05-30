@@ -12,17 +12,6 @@
 	</Loggers>
 </Configuration>
 
-<?xml version="1.0" encoding="UTF-8"?>
-<Configuration>
-	<Appenders>
-		<File name="file-log" file-log="logging.log"/>
-	</Appenders>
-	<Loggers>
-		<Root level="ALL">
-			<AppenderRef ref="file-log"/>
-		</Root>
-	</Loggers>
-</Configuration>
 
 
 
